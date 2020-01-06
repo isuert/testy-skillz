@@ -1,5 +1,5 @@
 # Testy Skillz
-A sample project for testing skills in AngularJS.
+An assignment for testing skills in AngularJS.
 
 ## Getting started
 - clone the project
